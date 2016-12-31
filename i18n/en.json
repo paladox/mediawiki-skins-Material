@@ -5,5 +5,6 @@
 		]
 	},
 	"skinname-material": "Material",
-	"material-desc": "The Material Design language created by Google, captured in MediaWiki software"
+	"material-desc": "The Material Design language created by Google, captured in MediaWiki software",
+	"material-guest": "Guest"
 }
